@@ -1,5 +1,12 @@
-# Getting Started with Create React App
+# Financial System
 
+![captura](https://user-images.githubusercontent.com/66797088/136644510-f7283154-57d3-409e-9461-77241ed3db7e.png)
+
+This project was made in React during a challenge called "5 Projetos em 5 Dias" by [B7Web](https://b7web.com.br).
+
+Project of a financial system where you can see your salary and expenses for the month. Where you can also include these monthly expenses. System made using React and styled-components.
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
